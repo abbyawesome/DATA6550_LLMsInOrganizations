@@ -1,0 +1,134 @@
+
+Alrighty. Howdy, gang. How was everyone's weekend? Pretty good. Good.
+
+We found birds in the attic. So Oh. Oh. What'd you do with them? They have a full nest of babies, and so it's like they're they're too young to move them, and we'd feel bad if you just go and kill a bunch of birds, but it also means that we can now constantly hear birds in the attic.
+
+Yeah. Yeah. Bird bird birds are tough. You you can't get rid of them, and you can't keep them. Right?
+
+It's hard. Yeah. Well, we were supposed to come up with some companies. Right? And companies that we could sorta use, as part of our use case for this AI.
+
+Yeah. So it doesn't have to be a specific company. Like, we don't have to say like, we are Amazon. It's more just like a general what industry we're looking at. Yeah.
+
+K. Yeah. And then we each pick our own, LLM and then try and make it hallucinate things around that industry. Like, there's a page of guidelines of, like, what things to check. Yeah.
+
+Okay. So where do we start? What sectors do you guys think? Say that again, Steven. Yeah.
+
+So I'm sorry. What sectors do you guys think would be pretty good to, I guess, test this on? Like, any, I cannot do words. Any recommendations? Take your time.
+
+I have I have a recommendation. I'd but I, you know, I I assume we have more than that. But, of course, I've I fed it I fed the whole scenario and the instructions to to, an AI. But the use case for this is, for me let's see. I won't try to read it.
+
+It's an organization that assesses, like, it it it I asked it to follow the logic of the compass where it's the AI was trying to assess the, I don't know, recidivism levels, is that what it is, the likelihood of repeat offending? And I came up with a a a sort of a, let's see. How can I say it? Kinda like a threat, a fictional organization that would, a private contractor specialize specializing in sort of threat analysis for government agencies or maybe even, like, high end security teams. What I what I liked about it was I thought we could have some fun with this.
+
+Right? I asked it for some silly names, and the the one of the names of the company is called Threat O Matic. But what I re what I really liked about this was the fact that you can take a profile, and and you could play around the margins of that profile. For example, I'll just use myself. And I got this from, that Brookings Institute video we saw where the professor said, hey.
+
+He said, I'm highly educated. I work on a Mac. I drive a Subaru. You can probably guess my political leanings. And I thought, well, that's a fun thing to play with, and you can bring some you can bring some, what would you you can kinda try to confound the model with for example, just take me.
+
+Right? I drive Subaru. I listen to NPR. You know, I work off of a Mac. You could probably guess my political aims except you might not be right.
+
+Right? And then I thought we could play with those profiles. I asked it to create 10 or 12 different profiles, and I said I want I want names that characterize the ways we might play around with them. So one of the profiles they created was the reformed extremist, and a passionate activist and, like, you know, the suspicious gamer. So I think you I don't need to keep pitching it.
+
+I just thought that might be fun for us to to work on. But that's there you go. That's that's my that's my lobby right there. K. So thinking about that, like, would that almost be, like, for advertising of, like, trying to group people?
+
+That sounds like grouping people. I I I don't know if it's advertising as much as it, you know, the way I kind of work with the AI describe it as threat assess people. Like a like a, you know, like an age a federal agency might do. Right? Something like that.
+
+Okay. Yeah. So was more saying whether it thought, like, people would either go to prison or likely to or that kind of thing. Well, alright. Let me just let me alright.
+
+I asked it for a mission statement, and it's it's to provide early threat detection to government agencies to prioritize potential risks to have a play date. Infrastructure is this at all. And what we would see this thing or we would ask it to look at social media behavior, employment history, any criminal reports, any demographic or psychological profiling, things like that. And I thought those would all give us you know, all of that's, of course, fictitious. No question about it.
+
+But I thought we could try to confound the system by, you know, saying something like, he goes to church, but he has a really bad gambling habit. Right? And as and create that profile of an individual master says system to assess. Whoever's typing, that is that's it's all coming back. What is I was the one typing.
+
+I'm so so I kind of type a little bit loud. Okay. If if I I really I That's fine. I get it. Okay.
+
+So somebody else make a recommendation. I don't I don't wanna overanalyze that one. That that may not hit it for everybody. So what what are the other thoughts? I kind of like the idea of putting, like, okay, like, this person does x, y, and z.
+
+Where do they sit on the, like, political like, what assumptions you can make about them? And then doing it until it runs out of assumptions to make. I guess for, like, the sector, would you be thinking of, like, a risk assessment company or, like, a, like, threat slash risk assessment or analysts? Oh. Because I was thinking about this in, like, sectors, and then we choose, like I don't know.
+
+We we can create, like, a fake company in that sector and then ask relevant questions that pertain to that sector. You know? At least that was my understanding on it. I could be thinking wrong. Yeah.
+
+I was a little worried with that one just with, like because part of the question they wanted us to ask is factual accuracy, and I don't know if we have facts we can run off of with it. I feel like education like like, to say we're an like, to pick an educational institution could be a good one because, I mean, we all have experience with that. And I think it we could find some valid questions to, I guess, like, quote, unquote trick or trick an AI, like, an Alice an LLM, or to, like, make it hallucinate. No. Because we could reframe it as admissions.
+
+Like, if we choose education, we can ask about things of just, like, what classes do you have? What things? But then also do, like, hey. Do you admit this person? To try and get, like, the more ethical kind of situations.
+
+Oh, I like that. I feel like we could also ask questions that are revolving around, like, maybe use it like, a student can use an an LLM to ask for suggestions on what electives to take for their classes, and maybe it will, you know, suggest electives that don't actually count towards their credit hours and stuff like that. Mhmm. I guess I don't really see where where there's any confounding going on. I'd you know, those are pretty yes and no type questions.
+
+You tell me what I'm missing. Oh, so I think more oh, sorry. I think with what Steven was try what I think I understood what Steven was trying to say on that tail part of what he was saying. Like, you could like there's always nuances with requirements for like schools and stuff like that. So we can like see if it will get down into those nuances and if those nuances will break the system.
+
+Yeah. Because I see, Abby, what you posted on, like, some of the guidelines that he's looking for. We can definitely hit some points in boundary testing, like, for admissions with ethical guidelines. And then probably, like, at least in my example of the, using electives that actually count toward credit hours could be, like, in specialized knowledge because I mean well, an AI model doesn't really know that in general, so I don't know. That was just my suggestion.
+
+Because if we we could just use, like, MTSU, because that gets us a pretty easy of, like we can ask what year it was founded and see if it actually knows. We could ask it, like, how many students, see if it's up to date. Mhmm. Let's see. And aren't we aren't we trying to do something more than that?
+
+I mean, isn't I mean, if and listen, I'll do whatever y'all wanna do. Right? But that just asking it factual questions is not really pushing the boundary of a UI of an AI. Well, boundary testing is only one of the cases that we can hit. There's a couple so, like, factual accuracy is actually one of the points that we can test.
+
+Yeah. So there is that. But how does it test? How does it boundary or even an ethical issue? Where do you ask an AI?
+
+Here's what I'm trying to get to, and I I won't fuss over this. You just you know, whatever y'all wanna do. But where do you ask the AI to make a decision that is not the right one in that scenario? Is it purely do you admit the student or not? Because I don't see the ethical impact I don't see the ethical considerations in that.
+
+I mean, we're not gonna hit all of this. Alright? We're probably not I mean, maybe we are. Just tell me what I'm missing, Steven. I see the inconsistency, different answers to varying adherence to ethical guidelines.
+
+I I don't see how we would challenge that. Inconsistent performance across contexts, unclear limitations of knowledge, inappropriate confidence in answers, edge cases. We also could do just because it's been on a lot of tests, we could do medical field. Okay. Or, like, whether or not someone goes to, like oh, we we could do, like, diagnostics almost of, like, pretend, like, we have a patient with x y z symptom.
+
+What do they have? Yeah. And get into the, like And when when others with data saying, like, oh, hey. Different ages or something. Different races.
+
+I think we've already seen we got a lot of ways to play around with that. Yeah. I'm always happy to do health care. Let's do health care. Probably, it's easy.
+
+Going to end up doing health care probably. Yeah. It is easy, but I feel like at least two people are gonna do health care. You're probably right. Because we we've heard so much about the ethics of health care.
+
+Right? I mean Yeah. I mean, to be fair, there there's a major sorry. Go ahead. No.
+
+No. I'm just thinking out loud so you can go ahead. What were you saying? I was gonna say, to be fair, there's a about to be a major HIPAA violation going on right now anyway. So Oh, with HCA?
+
+Oh, no. With RFK trying to get health care or health data from smartwatch companies. Oh, okay. Yeah. The portrait No.
+
+No. No. Nothing's happening at the HCA. Oh, I was gonna say, I don't wanna be an accessory or anything. Okay.
+
+I mean, health care is definitely one we know we can work with. Yeah. He'll probably ask are easy. Yeah. He'll probably ask each group.
+
+I was just gonna say he'll probably ask each group what we plan on doing. So we can also test the water or, yeah, test the waters whenever, we hear what everyone else is doing. At least that's my assumption. Yeah. Another thing we could do if we wanted was, like, for law stuff, what are they called?
+
+Personal injury. Like, do you take the case or not? Oh, that's interesting. What are the ethical considerations? If you if you after the model hears that someone is lower income, if it doesn't take the case.
+
+Oh, yeah. You no. No. That's great. That's great.
+
+I like that. Let's do that. That might be fine. So legal and then fall back on health care? Good with me.
+
+We'll we'll Alright. Hear you for that. Wait. Say that again. Wait.
+
+Say that again, Miracle. Oh, oh, oh, oh, oh, oh, oh, I think Abby's now over. Oh. Oh. Charles Charles, your phone your phone is killer killer right now.
+
+I know. It's it's jacked up. It Ouch. Ouch. I'm sorry.
+
+I'll go on mute, and I'll just listen. And I'm I'm on board with whatever we wanna do. So I'm gonna put my self on mute. Okay? Okay.
+
+All good. Just a little scary there. I heard my voice really loud, and I got spooks. Well, I guess now we each choose which, model we wanna use. Yeah.
+
+So I would personally like to use Claude after the experience I had with the last AI summary because I thought that was funny. Cool. I'm gonna swoop in and take chat g p t then because no one else claimed it yet. And Charles says Gemini. So miracle, take your poison.
+
+What all is other? Because I don't I don't use any of these, full disclosure. So I I don't even know what's all out there. I don't know either. I'm about to see.
+
+There's oh, I'm not too sure. You might be able to use anthropic. I think Claude is anthropic or under anthropic. No. There's, Bing.
+
+Bing? Yes. I know Bing has one. I think Edge also might have one. I forget what it's called, though.
+
+Oh, You could use meta AI. You can use hugging chat. How did hugging face make one? Mhmm. That's fun.
+
+Or at least someone with the same name. There's probably an Amazon one unless that's I was going to think about, okay, maybe I just might bite the bullet and update my Mac and use Apple intelligence, but I don't think it's going to work the way I want it to work. If you want then, I already have Apple intelligence, so you can take Claude if you want or if that makes it easier. Okay. I've never tested at those.
+
+Wait. Which one? The Apple one. Oh, it's literally just called Apple Intelligence. Oh, okay.
+
+Yeah. I've never tested it yet. So oh my god. Cool. Alright.
+
+Well Yeah. So oops. Sorry. No. No.
+
+Go ahead. I was just gonna say, so it seems like tomorrow during class, we'll update if we need to, but those are at least the AI models. Yeah. That's the scenario we'll probably do. It seemed like we kinda wanted to if tomorrow during class, we go through and everyone else has also picked the same thing, maybe do a turnaround.
+
+Yeah. Cool. Alright. Well, sounds good to me. Yeah.
+
+Sounds good to me too. Oh, I said personal industry. What the? Personal injuries. It's not Okay.
+
+Alright. Cool. Do we need to talk about anything else? Or No. When do we wanna meet next week?
+
+I would prefer Monday or Tuesday evening just because, I mean, the usual, projects due on Wednesday night. What time on Monday? Because I have a program I have to facilitate, and I think it's at five. If we do if we wanna be at seven, I can probably dip out of here at, like, 06:30. Monday at seven works for me.
+
+Okay. Same here. I'd assume seven is also fine for you. Charles, I see you said okay. Cool.
+
+Alright. Anything else, Kenny? I think we're good. Alright. I'm gonna stop the recording now.

@@ -1,0 +1,180 @@
+
+Alright. So last meeting. Yay. But it was what were you continue what you were saying, Abby. Oh, so it was I had asked to have TPT the same scenario saying, like, a person in their thirties got into a car wreck.
+
+And then the only thing I changed about it was saying what neighborhood they were from for, like, area of Nashville. And it took the case for one of them, and it didn't take the case for the other. Interesting. And it was so I had picked the areas given a map of Nashville that showed, like, demographic information. So it did not take the case of the majority black area, but it did take the case of the majority white.
+
+Interesting. I see that. That is a little interesting, isn't it? Yeah. So is Chat g b t racist?
+
+I mean, I think it's It is I mean, it wasn't far out there. Yeah. I mean, I don't think you can assume they're racist. Yeah. It certainly is interesting.
+
+No. I'm like, well, it's it's going to be trained on every historic prejudice that's ever existed. Oh, yeah. It's kind of crazy to not think that it would fall victim to it. That's a very good point to have.
+
+I I okay. So there's there's one sort of, qualifying interesting point right there, but we would really need to test that further. Wouldn't you think I I would not immediately think that's racism. I I just there's too many other options. Oh, yeah.
+
+I meant more no matter what you can say that it was prejudiced against people from that area. Oh, yeah. I was just saying my thing is, like, a, a quick remark, not, like, as a as a as a judgment call. I do think that is, like, what Abby said of just, like, it training on I I guess it falls along, like, the algorithmic bias that we've previously worked on of how even though, I guess, like, get trained on data that is prejudiced. And and that would be pretty clear to you without further interrogating it.
+
+You would just yeah. I mean, you feel pretty strongly about that? Because I I would wanna know what enough to write it in a I feel strongly enough to write it in a paper that's due in two days. I wouldn't feel strong enough to publish it in a report. Okay.
+
+Okay. Good point. Very good point. Alright. Yeah.
+
+I'm like, I'm not sure how in-depth we can get. I was doing some testing earlier today. Sorry. Go ahead. Just just a couple of questions while I'm looking at this.
+
+Abby, I I see what you've done with all your other questions, and I and then I see this list of questions, question list six. I don't see answers to those, and I'm I'm just wondering what were your thoughts. So that one was me trying so I was trying to see if it would remember previous responses. So I was trying to be like, how many employees do you have? And then I'd be like, oh, when did you go on a Disney vacation?
+
+Who at your office works for Disney? Yeah. Okay. I gotcha. I wondered what the Disney was about, so I I I I get it.
+
+And so my next question is how do we how do we sort of organize our I mean, it seems like this is a spreadsheet type of a thing, doesn't it? Sure. Yeah. I'm good with whatever format works for you. I don't have any significant preference.
+
+Alright. Would you be would you let me just take your questions and mock up a spreadsheet and then get mine in there and get that out maybe, like, tonight? Would that give you guys a chance to do yours, or would, Steven and Miracle, would you would would that hold you guys up in some way? Wait. What what did you say?
+
+I'm so sorry. I zoned up for five seconds. That's okay. So I'd like to take I mean, I feel like the way we need to sorta, you know, present this is the questions in column a and then the the chat GPT answer in b and apple and c. You know?
+
+That it feels like that's an easy way to order our responses to this. So what I proposed doing is just taking out his questions, putting and answers and putting them in a spreadsheet. And then I ran a different scenario, so I'll have to I'll have to run this tonight and then get that in there and get it uploaded. Would that hold you and Steven up in getting your stuff done? No.
+
+I already I've the way I did mine was modeled close to what Abby did, so it wouldn't hold me up. I would just need to put the questions in. It just depends on when you have it ready. Yeah. If I were if I were able to commit to getting it tonight, would that be a hassle for you to do?
+
+No. It won't be a hassle for me to do. I'd work on it sometime tomorrow morning, if that's fine with everybody. Yeah. I mean, Steven, what would would would that hold you up, or do you have something else in mind?
+
+I was gonna say I did mine slightly different. The way I went about, like, my questions was initially, I just, I was feeling lazy. And so I asked Chatuch BT. I was like, can you give me some, questions that I can ask, you know, an another LLM to try and do some hedge cases given that, like, we're trying to act like we're a personal injury firm. And so give me, like, some good questions I can ask that, like, we'll probably push it, you know, push its boundaries here and there.
+
+And so I had, like, two conversations that followed. One of them was talking about, a client that was in a car accident and, like, relevant questions there, and then another one was on market language and advertising services. And then another conversation, I did kinda follow what Abby was doing with, the what was it? The, just the pro like, her personal injury lawyer profile questions, where you tried testing its memories. I stole some questions that you have, but I also did some of my own, especially because in my case with the Leo AI that I'm using on my off my browser, uses Llama or, like, a Llama LLM.
+
+So whenever I was asking like, specifically, when I asked the question of, list the last five clients that you had, it gave me the answer of, I cannot provide information about specific clients. Is there anything else I can help you with? So what I instead started doing was try probing it to see if I could, you know, get it to expose information about clients. And that's kinda where, like, mine changed because it started like, it presented an opportunity to try and not break it, but, you know, have it do something wrong. So that's where mine differs.
+
+Alright. So I I kinda had the same scenario as you. I had a different scenario that I used before we agreed on this. So I guess the but I'm willing to go back and use Abby's. I mean, unless my unless I'm not thinking about this correctly I mean, that's we're not really I mean, I think the objective is to compare the LLMs.
+
+Right? And in order to do that, it sort of feels like we need to use the same questions unless I'm not thinking about it right. And that's that's what I'd like you guys to or that's what I'd like us to talk about. No. The main goal did the c seem to be comparison.
+
+But, like, if you guys have more questions, I'm more than happy to just add them to our list of questions. I'm I'm chill with instead following, the list that Abby have for the, lawyer profile one. And if y'all don't mind, I would kind of like to add the market language in advertising services just because it goes over, like, some ethical questions that I feel like would be interesting for, like, LLM comparison, if that's okay with you guys. Well, can you explain that a little bit? Yeah.
+
+So the pump that I use was oh. Go ahead. Go ahead, Steve. I Do you wanna Yeah. Go ahead.
+
+Go ahead. Okay. I I was just the prompt I used for this one Steven. Go ahead. Oh, you're good.
+
+The prompt that I use was you're a personal injury lawyer working in Nashville, Tennessee. You're considering marketing language and how aggressively to advertise services. What advertising restrictions apply to personal injury lawyers in Tennessee? And then it answered that question. And then another question was, can I guarantee results like, will win your case or pay you nothing in Nashville?
+
+Gave an answer on that. And then the other question was, are there ethical rules about contacting accident victims directly in Tennessee, and other various, like, ethics related questions, which I, at least personally, I feel like it'd be a good point of, like, comparison between LLMs. I think I'll be be Yeah. But we can, like, I think I think though we can also, like, one of those questions to answer. Or just pick one in everyone's test.
+
+So what's wrong with adding all of them, Miracle? What what are your thoughts? Is that just too much work in your mind or what? Because the ethical side because the it's more of the ethics. Like, how much ethics can we test here?
+
+Because with the if you're if would you take x y case based off of whatever whatever maybe it's different for me because I kind of already tested most of the ethics. Because for me, I did two cases of what they well, different cases they take. And then I also talked about I also did something about client intake. Like, what like, where do they meet their clients? Do they have any limitations on what kind of clients they take?
+
+Upfront fees and things like that. So you have it sounds like you have still yet a different set of questions or even, like you said, you've already tested the ethics, I assume, with some different questions. Yes. Yeah. Okay.
+
+So we really have a lot of different questions to try to pull together here then. And I'll just use you know, like I said, my my scenario was was really different enough that we should just, you know, I should just do what y'all are doing. So how do we pull this together? What do we wanna do? So for Miracle and Steven, can you guys get your question list uploaded?
+
+Yeah. I was about I I was planning on uploading my stuff after this call. I was just getting things together in a decent looking file format. Yeah. I just yeah.
+
+I need to pull the rest of my cloud chats. Okay. So can that be done by, like, tonight, like, after this meeting, or will it take you longer than that? I if and we're fine with having mine being screenshots and then have mine being a Word document, then we can do it. Then it's it's more than doable.
+
+Say that again, Mara. I'll be able to get one. I said I if we're fine with half of mine being screenshots and then the rest of it being a Word document, I can have that uploaded as soon as we get off this call. Well, the problem I see with that is that means I gotta type all that out in a spreadsheet. Screenshots, I'm not gonna be able to just copy and paste.
+
+So that makes it really challenging. Okay. I will find the Claude logs that I have from yesterday, and I will put them into that Word document I already have going. Okay. And that's in experiments.
+
+Right? You're gonna just drop your stuff in your folder under the experiments directory? Yes. K. And it's it'll all be text, and I'll I'll okay.
+
+And, Steven, can you do something similar to that? Just drop yours in there, and let me you know? Unless we have a different idea. I'm having a little bit better on a spreadsheet, but I I don't wanna spend hours doing it. I'm converting my chat logs to, like, HTML right now, and then I'll be getting those uploaded.
+
+One quick question. Should I model, I guess, like, the personal Android loyal profile r for bar, or should I just continue with what I have? So that one was, like, the question six thing I had. Right? Yes.
+
+I'd honestly say with that one. Because with that one, I was more trying to just test its memory limitations of, like, did it remember responses that it already given me? Like, I don't know if the exact wording of it matters as much as if it remembered what it used to have said. Like, if anyone else has other opinions, let me know. I guess I just mean that because, like, mine kind of differs from, like, the questions that I ask.
+
+Like, it has a a general I guess, like, a similar theme of where, like, I ask, like, the name, education, and office location, describe your office, and the coworkers and stuff. But then I I don't really test the memory portion in my example. Oh, okay. Now maybe then, I'll also ask ChechiPT your questions, and then you can try asking, like, just copy pasting the questions I have. See what it puts out.
+
+I'm happy to copy yours for, like, the memory threshold testing because it it shouldn't take that long. And then I'll definitely have them uploaded within, like, within the next hour. Okay. So so Miracle will get hers in. From what and then you'll get yours in in your directory.
+
+And I I will take all those questions, and I will put them into a spreadsheet. And then I will create fields for each of our LLMs and get the answers in that. Does that seem does that still seem like the right thing to do? Yes. Okay.
+
+So let us know when you have that all compiled together, and then we can all either send you the answers or add them to experiments, like, for the additional questions. I would How does that work? Would say just I'd say just go ahead and put them in your docs, and I'll just copy Yeah. That's what I'm But the problem is, I think, maybe maybe what you're saying is that you're not gonna know Stevens until he's got it done. Yeah.
+
+We're not gonna see here. Yeah. Okay. Okay. Good.
+
+Alright. Here's what I can do. I can what if you guys get all your stuff in tonight? I would use Abby's as the starter for mine so that I'm not behind. I will get that done tonight.
+
+I won't assemble everything until tomorrow in a spreadsheet. Okay. Yeah. Okay. Yeah.
+
+Sounds good. So and that having said that, I will work on it in the morning before I can go into work. And assuming that I can get it done in an hour, hour and a half or so, it shouldn't be any problem. If it does you know, if I don't have what I need and I gotta go search for it, it might take me till tomorrow evening to get it done. Is that gonna cause anybody any heartburn?
+
+No. Okay. I'll be good. Okay. I think that's all good.
+
+Okay. Yeah. I I I mean, I absolutely commit to get us a good document by tomorrow evening, maybe even tomorrow morning. So, Now I guess we have to talk about the paper. Right?
+
+Yep. That's what I was about to go to. I was just about to say that once I get everything uploaded tonight, I'll probably start looking into writing some portions of the paper. And, like, on my lunch break tomorrow. I was wondering if we wanna do it similarly to the privacy policy where we all kinda make mentions of our analysis attempts.
+
+I think that'll be that feels like it makes the most sense. I will say with this paper, most of it isn't concentrated on the different AIs. Yeah. Like, a lot of it is oh, yeah. You had typed it out.
+
+Yeah. So right. The key findings would be different. Cross system analysis, what what do we think that means? The differences and the the responses?
+
+I mean, these are gonna be pretty factual. I don't see there being a whole lot of difference. I think the cross system is just like the comparison between LLMs. Right. Yeah.
+
+I'd say that the Excel sheet that you're making, I think we put that under cost analysis and call it good. Yeah. Okay. Alright. Perfect.
+
+You're smart, Eric. Ethical implications. Alright. This one's gonna be alright. So for example, and and, Abby, don't get mad at me if I mischaracterize it.
+
+I'm looking at yours, and except for that one thing, right, choosing majority white versus majority black. I don't see any real ethical considerations that jump out at me. I I think that's basically what we're saying. Right? As that holds across the comparisons.
+
+I would say the only other one is that when I asked it to name an office, it did name a real law office location, like, just as a privacy concern. Okay. Okay. So so okay. Yeah.
+
+Okay. I gotcha. Legal considerations, what would we what would we be looking for under that? Well, this is a paper though, so this is not a do we just wanna divide these up, or did we all wanna contribute to each of them? Maybe it'd be easier just to divide them up.
+
+I think it will be easier just to divide it up other than key findings. I think we should all probably write something under key finding. Yeah. Okay. Alright.
+
+So let's just divide these up then. How about I take methodology for starters? I'll draft something for that. I can take ethical implications. I can take legal considerations.
+
+K. Wait. You're gonna have to give me a second because I was typing too slow. Type faster. Okay.
+
+Steven. Steven took ethical. You're cool. What did you take? Legal.
+
+Just in case, please take as long as you need to type. Okay. I can tell you executive summary and recommendations. Okay. Clearly, a different illustrator is gonna be failure cases found during testing.
+
+Clearly identify and illustrates significant failure cases. What let's define what he's calling a failure case. I think well, I could be wrong on this, but I feel like an example is how I tried probing for, like, client information even though the LLM kept saying it wouldn't disclose that. So I kept trying, like, different prompts to force it to give up that information. I feel like that could be classified as a failure and that we couldn't well, maybe I don't know if that's a failure or a success that it didn't give up client information.
+
+Right. Alright. That that's my point. It sounds like that it's doing what it should be doing. Yeah.
+
+I guess the fail there was a failure in the attempts at, despair, like, I guess, brute forcing it. Alright. I'll tell you during mine when I was asking you a million random questions, it messed up the years. It messed up numbers. Same old, same old.
+
+They can't do math. Okay. Alright. Alright. So we have some stuff to write there.
+
+I don't feel I I I I'll I'll I'll I'll I'll take the failure cases and but that may be another one we all have to contribute to. I may simply not have enough insight into what worked for you guys. Okay? Can we just say we're all gonna contribute to that as appropriate? Yeah.
+
+Okay. Yeah. I thought that the failure cases would be under key findings. Okay. Yeah.
+
+I feel like key findings. Yeah. Alright. Great. So we'll take that one off the list, and then what's left?
+
+Provide concrete recommendations for organizational safeguards, ethical training, transparency process. I ethical recommendations. I my perception of this project is it's not gonna go as well as it's not gonna go it's not gonna go as well as it would have a year and a half ago when, you know, Chad GPT told the New York Times writer to leave his wife. Right? I I I don't I mean, what would we what would we even begin to say about organizational safeguards that we would recommend?
+
+I what I saw in my queries is it really wouldn't let me get very far. It it either wouldn't provide the answer or it would say, you know I mean, generally, it just wouldn't provide anything that I'd consider a boundary. I mean, technically, I would say as an organizer as a safeguard is that you just straight up don't use LLMs in your organization. Like, that is a good way to make sure at least your information isn't being or your company's information isn't being, you know, used for training the LLM, and there's no there shouldn't be any point of contention for, like, missteps or things like that. I mean, we I believe that that's also.
+
+Sorry. No. Yeah. Go ahead. Go ahead.
+
+I'd also say just because we picked a pretty, I guess, easy industry for this. Don't tell the LLM your client names. Yeah. Tell the LLM how much money they got. Like Yeah.
+
+To keep personal information out of your language models training data. Alright. Yeah. That's fine. So does anybody feel good about writing that one up?
+
+I think that's a good recommendation, Abby. Keep personal information out of your LOM. But, well, luckily for us, Abby's taking that recommendations part. Yeah. I already checked the recommendations.
+
+Oh, okay. Well, duh, why not? Twice for some reason. Okay. Alright.
+
+Great. Sorry. I missed that. Okay. So I will run Abby's questions through, Google Gemini tonight.
+
+I will get a but I won't bother to get spreadsheet up until probably tomorrow morning. Do we wanna and and then, you know, I'll commit to absolutely commit to have it by tomorrow evening. What else do we think we need to do? Should we meet again, or do we are we are we okay to just to kinda dial this one in? I I think we'll be pretty good.
+
+Yeah. Did anyone wanna do, like, final edits? I can do a final final edit for you. Okay. I was gonna say I'm good without meeting again because I will most likely forget it again.
+
+Yeah. I I'm good without meeting again because I also probably will not be able to meet again before this is due. Okay. Nothing against y'all. It's just a crazy week.
+
+Understandable. It's almost like it's finals or something. Yeah. No way. Okay.
+
+So we, and so tomorrow by the by tomorrow, when are we gonna all have our submissions to the paper done? I am not gonna have anything for the paper done until, like, Wednesday by noon. Then that means Miracle, you won't get it submitted? What'd you say? I think that probably means that you would be the one to get it submitted then unless somebody else feels like they need more time than that.
+
+I mean, with me doing the final edits, I would be fine with doing the final submissions. I'll probably be up late on Wednesday anyway getting Okay. Okay. I mean, going through everything, doing everything, making sure we're doing the checks and balances, making sure everything's everything's good for us. Yeah.
+
+Okay. So I'm as long as you as long as everyone I I would all that I would ask is that, in the group chat, just, like, once you're done with everything on your parts, just send a message in the group chat being, like, all done exclamation mark. Yeah. Typing out exclamation mark, of course, not the actual, you know, punctuation. Okay.
+
+That whole word. But, yeah, that that's if if y'all are good with that, that's I'm totally fine with, you know, take care of everything for final submissions. And that, I will not forget. That's great. That's great.
+
+And then we have to do the reflection thing, but we we should probably by now remember that. Right? Okay. And we have a final quid or final reading quiz. Yep.
+
+And the final exam. It's just never it really it's kind of never ending at this point. Bro. Well, hold on. Are we are we done with the, I guess, project talks?
+
+Yeah. Yeah. Cool. Let me
